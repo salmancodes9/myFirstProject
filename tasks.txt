@@ -1,0 +1,29 @@
+Student Admission Form - Task List
+
+1. Create a form using the <form> tag.
+
+2. Make a student admission form with the following fields:
+
+   - Student Name (text input)
+   - Student ID (number input)
+   - Student Image (file upload)
+   - Father's Name (text input)
+   - Gender (radio buttons: Male, Female)
+   - Student Type (radio buttons: Regular, Unregular)
+   - Cast (select dropdown: General, OBC, SC, ST, Other)
+   - Student Description (textarea)
+   - Date of Admission (date input)
+   - Time of Admission (time input)
+   - Class (number input)
+   - Date of Birth (date input)
+
+3. Add a submit button at the end of the form
+
+
+
+
+  taTodaysk 
+  create div and spans and buttons
+  create another form and make a question paper with multiple choice answer picking system with html
+
+
