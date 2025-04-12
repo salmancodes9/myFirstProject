@@ -27,3 +27,11 @@ Student Admission Form - Task List
   create another form and make a question paper with multiple choice answer picking system with html
 
 
+
+
+  --> new tasks 11-04-2025
+  1. create a student identification table using (table tags) in which 
+  there should be a roll number, student name , email, phone, class, parent name, dob, date of addmition and create 10 student entries
+  2. create a list of students with same name but different roll numbers (with list tags eg. ul etc.)
+  3. push code to git hub.
+
